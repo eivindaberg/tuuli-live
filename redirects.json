@@ -1,0 +1,452 @@
+[
+    {
+      "from": "blogg/flytt-pensjonskapitalbevis-og-faa-hundretusener-i-hoyere-pensjon",
+      "to": "flytt-pensjonskapitalbevis-og-faa-hundretusener-i-hoyere-pensjon",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-jeg-sparer-5000-kroner-i-ret-p-noe-som-i-tillegg-gjr-meg-lykkeligere-og-sunnere",
+      "to": "hvordan-jeg-sparer-5000-kroner-i-ret-p-noe-som-i-tillegg-gjr-meg-lykkeligere-og-sunnere",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-jeg-skal-spare-8-prosent-av-boliglanet",
+      "to": "hvordan-jeg-skal-spare-8-prosent-av-boliglanet",
+      "permanent": true
+    },
+    {
+      "from": "blogg/12-grunner-til-aa-ha-matkasse-og-hvilken-jeg-anbefaler",
+      "to": "12-grunner-til-aa-ha-matkasse-og-hvilken-jeg-anbefaler",
+      "permanent": true
+    },
+    {
+      "from": "blogg/du-bor-spare-ti-prosent-av-inntekten-til-pensjon",
+      "to": "du-bor-spare-ti-prosent-av-inntekten-til-pensjon",
+      "permanent": true
+    },
+    {
+      "from": "blogg/okonomisk-frihet-og-indikatoren-som-bestemmer-alt",
+      "to": "okonomisk-frihet-og-indikatoren-som-bestemmer-alt",
+      "permanent": true
+    },
+    {
+      "from": "blogg/47-sparetips-som-alle-maa-kunne",
+      "to": "47-sparetips-som-alle-maa-kunne",
+      "permanent": true
+    },
+    {
+      "from": "blogg/tidenes-mest-uheldige-investor",
+      "to": "tidenes-mest-uheldige-investor",
+      "permanent": true
+    },
+    {
+      "from": "blogg/investering-fra-scratch-er-her",
+      "to": "investering-fra-scratch-er-her",
+      "permanent": true
+    },
+    {
+      "from": "blogg/s-mye-kan-du-tjene-p-ny-pensjonsspareordning",
+      "to": "s-mye-kan-du-tjene-p-ny-pensjonsspareordning",
+      "permanent": true
+    },
+    {
+      "from": "blogg/jobbe-mindre-eller-kjope-fritid",
+      "to": "jobbe-mindre-eller-kjope-fritid",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-tjene-penger-ved-aa-jobbe-hjemmefra",
+      "to": "hvordan-tjene-penger-ved-aa-jobbe-hjemmefra",
+      "permanent": true
+    },
+    {
+      "from": "blogg/kopier-modellportefoljer-og-sla-borsen",
+      "to": "kopier-modellportefoljer-og-sla-borsen",
+      "permanent": true
+    },
+    {
+      "from": "blogg/dette-er-hvorfor-du-bor-vente-med-barnas-boligkonto",
+      "to": "dette-er-hvorfor-du-bor-vente-med-barnas-boligkonto",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-grunner-til-at-aksjesparekonto-ikke-er-verdt-hypen",
+      "to": "fem-grunner-til-at-aksjesparekonto-ikke-er-verdt-hypen",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-velge-riktig-indeksfond",
+      "to": "hvordan-velge-riktig-indeksfond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-begynne-med-crowdfunding",
+      "to": "hvordan-begynne-med-crowdfunding",
+      "permanent": true
+    },
+    {
+      "from": "blogg/8-grafer-som-kan-gjore-deg-rik",
+      "to": "8-grafer-som-kan-gjore-deg-rik",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fra-null-til-50-prosent-i-sparerate",
+      "to": "fra-null-til-50-prosent-i-sparerate",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-myter-om-budsjettering-og-hvordan-du-budsjetterer",
+      "to": "fem-myter-om-budsjettering-og-hvordan-du-budsjetterer",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fondssparing-indeksfond-eller-aktivt-forvaltet-aksjefond",
+      "to": "fondssparing-indeksfond-eller-aktivt-forvaltet-aksjefond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/sju-grunner-til-aa-holde-pensjonssparing-utenfor-ips",
+      "to": "fondssparing-indeksfond-eller-aktivt-forvaltet-aksjefond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/en-gjennomgang-av-you-need-a-budget-ynab",
+      "to": "en-gjennomgang-av-you-need-a-budget-ynab",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-oke-pensjonen-en-presentasjon-for-tekna-ung",
+      "to": "hvordan-oke-pensjonen-en-presentasjon-for-tekna-ung",
+      "permanent": true
+    },
+    {
+      "from": "blogg/kjope-bitcoin-16-grunner-som-far-meg-til-velge-annen-kryptovaluta-inkluderer-bitcoin-forklart-og-psykologi-i-kryptovaluta",
+      "to": "kjope-bitcoin-16-grunner-som-far-meg-til-velge-annen-kryptovaluta-inkluderer-bitcoin-forklart-og-psykologi-i-kryptovaluta",
+      "permanent": true
+    },
+    {
+      "from": "blogg/statistikk-fra-2017-og-planer-for-2018",
+      "to": "statistikk-fra-2017-og-planer-for-2018",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-spare-penger-ved-aa-automatisere-okonomien",
+      "to": "hvordan-spare-penger-ved-aa-automatisere-okonomien",
+      "permanent": true
+    },
+    {
+      "from": "blogg/spre-investering-over-tid-eller-investere-alt-p-en-gang",
+      "to": "spre-investering-over-tid-eller-investere-alt-p-en-gang",
+      "permanent": true
+    },
+    {
+      "from": "blogg/vurderer-du-matkasse-hvorfor-det-er-feil-bare-se-p-pris",
+      "to": "vurderer-du-matkasse-hvorfor-det-er-feil-bare-se-p-pris",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hva-er-faktorfond-og-fem-ting-aa-vurdere-for-du-kjoper",
+      "to": "hva-er-faktorfond-og-fem-ting-aa-vurdere-for-du-kjoper",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-ting-du-ma-tenke-pa-for-du-investerer-i-crowdfunding",
+      "to": "fem-ting-du-ma-tenke-pa-for-du-investerer-i-crowdfunding",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-spare-penger-p-de-store-utgiftene",
+      "to": "hvordan-spare-penger-p-de-store-utgiftene",
+      "permanent": true
+    },
+    {
+      "from": "blogg/alt-du-m-gjre-for-bytte-bank",
+      "to": "alt-du-m-gjre-for-bytte-bank",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvorfor-jeg-solgte-alle-enkeltaksjer",
+      "to": "hvorfor-jeg-solgte-alle-enkeltaksjer",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-forvalte-familieformuen-best-mulig",
+      "to": "hvordan-forvalte-familieformuen-best-mulig",
+      "permanent": true
+    },
+    {
+      "from": "blogg/mitt-forste-forbrukslan",
+      "to": "mitt-forste-forbrukslan",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-av-de-dyreste-aksjefondene-du-kan-investere-i",
+      "to": "fem-av-de-dyreste-aksjefondene-du-kan-investere-i",
+      "permanent": true
+    },
+    {
+      "from": "blogg/barekraftige-investeringer-hva-er-det-og-hvorfor-skal-du-bry-deg",
+      "to": "barekraftige-investeringer-hva-er-det-og-hvorfor-skal-du-bry-deg",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fire-barekraftige-fond-og-en-portefolje-du-kan-investere-i",
+      "to": "fire-barekraftige-fond-og-en-portefolje-du-kan-investere-i",
+      "permanent": true
+    },
+    {
+      "from": "blogg/den-beste-barneforsikringen-og-seks-grunner-til-a-ikke-ha-barneforsikring",
+      "to": "den-beste-barneforsikringen-og-seks-grunner-til-a-ikke-ha-barneforsikring",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-spare-500000-kroner-i-egenkapital-til-bolig-paa-to-aar",
+      "to": "hvordan-spare-500000-kroner-i-egenkapital-til-bolig-paa-to-aar",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvorfor-jeg-solgte-alle-enkeltaksjer-del-to",
+      "to": "hvorfor-jeg-solgte-alle-enkeltaksjer-del-to",
+      "permanent": true
+    },
+    {
+      "from": "blogg/en-annen-vri-paa-tre-klassiske-sparetips",
+      "to": "en-annen-vri-paa-tre-klassiske-sparetips",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvem-er-best-spareroboten-til-kron-nordnet-eller-sbanken",
+      "to": "hvem-er-best-spareroboten-til-kron-nordnet-eller-sbanken",
+      "permanent": true
+    },
+    {
+      "from": "blogg/25-tjenester-for-prissammenligning-for-spare-penger",
+      "to": "25-tjenester-for-prissammenligning-for-spare-penger",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvorfor-tok-det-37-dager-flytte-min-aksjesparekonto",
+      "to": "hvorfor-tok-det-37-dager-flytte-min-aksjesparekonto",
+      "permanent": true
+    },
+    {
+      "from": "blogg/kan-du-snart-f-betalt-for-eie-indeksfond",
+      "to": "kan-du-snart-f-betalt-for-eie-indeksfond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/det-beste-fra-2018",
+      "to": "det-beste-fra-2018",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-grunner-til-at-jeg-tar-det-med-ro-nar-borsen-stuper",
+      "to": "fem-grunner-til-at-jeg-tar-det-med-ro-nar-borsen-stuper",
+      "permanent": true
+    },
+    {
+      "from": "blogg/nar-skal-du-selge-aksjefond",
+      "to": "nar-skal-du-selge-aksjefond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/skal-du-velge-dnb-teknologi-dnb-healthcare-og-dnb-miljinvest-med-eller-uten-suksesshonorar",
+      "to": "skal-du-velge-dnb-teknologi-dnb-healthcare-og-dnb-miljinvest-med-eller-uten-suksesshonorar",
+      "permanent": true
+    },
+    {
+      "from": "blogg/en-pause-fra-ynab",
+      "to": "en-pause-fra-ynab",
+      "permanent": true
+    },
+    {
+      "from": "blogg/indeksfond-idiotpenger-og-luftslott",
+      "to": "indeksfond-idiotpenger-og-luftslott",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvor-mye-koster-egentlig-en-tesla-model-3",
+      "to": "hvor-mye-koster-egentlig-en-tesla-model-3",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvorfor-sparer-ikke-flere-i-fond",
+      "to": "hvorfor-sparer-ikke-flere-i-fond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fire-mater-investere-i-likestilling-pa",
+      "to": "fire-mater-investere-i-likestilling-pa",
+      "permanent": true
+    },
+    {
+      "from": "blogg/bor-du-folge-aksjetips-fra-eksperter",
+      "to": "bor-du-folge-aksjetips-fra-eksperter",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-indeksfond-jeg-anbefaler",
+      "to": "fem-indeksfond-jeg-anbefaler",
+      "permanent": true
+    },
+    {
+      "from": "blogg/min-fondsportefolje-trygg-tematisk-og-spekulativ",
+      "to": "min-fondsportefolje-trygg-tematisk-og-spekulativ",
+      "permanent": true
+    },
+    {
+      "from": "blogg/vi-flytter-boliglanet-og-sparer-over-10000-kroner-i-aret",
+      "to": "vi-flytter-boliglanet-og-sparer-over-10000-kroner-i-aret",
+      "permanent": true
+    },
+    {
+      "from": "blogg/sbanken-fjerner-returprovisjon-og-kutter-prisene-p-400-fond",
+      "to": "sbanken-fjerner-returprovisjon-og-kutter-prisene-p-400-fond",
+      "permanent": true
+    },
+    {
+      "from": "blogg/vil-du-ha-ferie-uten-valutagebyr-og-gratis-kurtasje-p-aksjehandel",
+      "to": "vil-du-ha-ferie-uten-valutagebyr-og-gratis-kurtasje-p-aksjehandel",
+      "permanent": true
+    },
+    {
+      "from": "blogg/pensjonskapitalbevis-du-kan-forvalte-pensjonen-til-110-av-prisen-til-klp",
+      "to": "pensjonskapitalbevis-du-kan-forvalte-pensjonen-til-110-av-prisen-til-klp",
+      "permanent": true
+    },
+    {
+      "from": "blogg/investere-i-eiendom-et-dypdykk-i-kameo",
+      "to": "investere-i-eiendom-et-dypdykk-i-kameo",
+      "permanent": true
+    },
+    {
+      "from": "blogg/de-fem-viktigste-hendelsene-for-min-okonomi",
+      "to": "de-fem-viktigste-hendelsene-for-min-okonomi",
+      "permanent": true
+    },
+    {
+      "from": "blogg/12-ting-du-ma-vurdere-for-du-kjoper-nordnet-smarte-portefoljer",
+      "to": "12-ting-du-ma-vurdere-for-du-kjoper-nordnet-smarte-portefoljer",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-tjene-penger-pa-nett-inntektsrapport-for-2019",
+      "to": "hvordan-tjene-penger-pa-nett-inntektsrapport-for-2019",
+      "permanent": true
+    },
+    {
+      "from": "blogg/den-ultimate-guiden-til-sparing-til-barn",
+      "to": "den-ultimate-guiden-til-sparing-til-barn",
+      "permanent": true
+    },
+    {
+      "from": "blogg/oppdatering-pa-fondsportefoljen",
+      "to": "oppdatering-pa-fondsportefoljen",
+      "permanent": true
+    },
+    {
+      "from": "blogg/corona-og-meg",
+      "to": "corona-og-meg",
+      "permanent": true
+    },
+    {
+      "from": "blogg/nar-kjoper-jeg-etter-corona",
+      "to": "nar-kjoper-jeg-etter-corona",
+      "permanent": true
+    },
+    {
+      "from": "blogg/investere-i-gull-og-krypto-etter-corona",
+      "to": "investere-i-gull-og-krypto-etter-corona",
+      "permanent": true
+    },
+    {
+      "from": "blogg/gearing-av-portefoljen",
+      "to": "gearing-av-portefoljen",
+      "permanent": true
+    },
+    {
+      "from": "blogg/usikkerhetens-portefoljetanker",
+      "to": "usikkerhetens-portefoljetanker",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvorfor-jeg-ikke-investerer-i-dnb-disruptive-opportunities",
+      "to": "hvorfor-jeg-ikke-investerer-i-dnb-disruptive-opportunities",
+      "permanent": true
+    },
+    {
+      "from": "blogg/tanker-om-nordnets-nye-prismodell",
+      "to": "tanker-om-nordnets-nye-prismodell",
+      "permanent": true
+    },
+    {
+      "from": "blogg/fem-regler-om-privatkonomi-som-er-verdt-utfordre",
+      "to": "fem-regler-om-privatkonomi-som-er-verdt-utfordre",
+      "permanent": true
+    },
+    {
+      "from": "blogg/hvordan-jeg-vurderer-teknologifond",
+      "to": "hvordan-jeg-vurderer-teknologifond",
+      "permanent": true
+    },
+    {
+      "from": "nordnet",
+      "to": "http://bit.ly/2B2wovu",
+      "permanent": true
+    },
+    {
+      "from": "tjenestetorget",
+      "to": "http://bit.ly/2owkxiy",
+      "permanent": true
+    },
+    {
+      "from": "komplettbank",
+      "to": "http://bit.ly/2LMcZRU",
+      "permanent": true
+    },
+    {
+      "from": "elskling",
+      "to": "http://bit.ly/2PVTQA8",
+      "permanent": true
+    },
+    {
+      "from": "ips",
+      "to": "http://bit.ly/2oOdjq1",
+      "permanent": true
+    },
+    {
+      "from": "kron",
+      "to": "http://bit.ly/2IfWWLZ",
+      "permanent": true
+    },
+    {
+      "from": "kaffebox",
+      "to": "http://bit.ly/2Nc87WR",
+      "permanent": true
+    },
+    {
+      "from": "investering-fra-scratch",
+      "to": "investering-for-nybegynnere",
+      "permanent": true
+    },
+    {
+      "from": "kokkeloren",
+      "to": "https://www.kokkeloren.no",
+      "permanent": true
+    },
+    {
+      "from": "kameo",
+      "to": "http://bit.ly/36ghEqM",
+      "permanent": true
+    },
+    {
+      "from": "miraiex",
+      "to": "http://bit.ly/2UUdoJF",
+      "permanent": true
+    },
+    {
+      "from": "lunar",
+      "to": "https://bit.ly/2L1eU7e",
+      "permanent": true
+    }
+  ]

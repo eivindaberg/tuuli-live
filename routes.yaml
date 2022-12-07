@@ -1,0 +1,49 @@
+routes:
+  /signup/: 
+    template: signup
+    # data: page.signup # When active data will be taken from the  "/signup/" page
+  /signin/: 
+    template: signin
+    # data: page.signin # When active data will be taken from the  "/signin/" page
+  /account/: 
+    template: account 
+    # data: page.account # When active data will be taken from the  "/account/" page
+  /membership/:
+    template: membership
+    # data: page.membership # When active data will be taken from the  "/membership/" page
+  /authors/:
+    template: authors
+    # data: page.authors # When active data will be taken from the  "/authors/" page
+  /tags/:
+    template: tags
+    # data: page.tags # When active data will be taken from the  "/tags/" page
+  /search/:
+    template: search
+
+  # Channel
+  /archive/: 
+    controller: channel
+    template: archive
+    # data: page.archive # When active data will be taken from the  "/archive/" page
+
+collections:
+  /:
+    permalink: /{slug}/
+    template: index
+    filter: tag:-[nyhetsbrev,kurs,budsjettmal]
+  /nyhetsbrev/:
+    permalink: /nyhetsbrev/{slug}/
+    template: index_basic
+    filter: tag:nyhetsbrev
+  /ifn/:
+    permalink: /ifn/{slug}/
+    template: index_basic
+    filter: tag:kurs
+  /budsjett/:
+    permalink: /budsjett/{slug}/
+    template: index_basic
+    filter: tag:budsjettmal
+
+taxonomies:
+  tag: /tag/{slug}/
+  author: /author/{slug}/
